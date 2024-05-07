@@ -1,7 +1,4 @@
 /**************************************/
-/* Charles Omaoeng                    */
-/* 3/20/2024                          */
-/* CS-241 Section 3RW                 */
 /* sudoku.c                           */
 /* Solves a sudoku puzzle through     */
 /* recursion and backtracking         */
